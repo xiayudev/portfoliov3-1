@@ -1,6 +1,9 @@
 <template>
   <div>
-    <h2 class="text-3xl font-bold">Hello World!</h2>
-    <v-icon icon="mdi-user" />
+    <index-view></index-view>
   </div>
 </template>
+
+<script setup lang="ts">
+import IndexView from './modules/portfolio/views/IndexView.vue';
+</script>
