@@ -2,7 +2,7 @@
   <header>
     <header-view />
   </header>
-  <main>
+  <main class="h-screen">
     <body-view />
   </main>
   <footer>
